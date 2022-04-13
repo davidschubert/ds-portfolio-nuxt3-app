@@ -2,7 +2,7 @@
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
-## Setup Github
+## Setup Git with Github CLI
 
 Create the Git repo and push with Github CLI
 
@@ -11,7 +11,7 @@ gh repo create davidschubert/ds-portfolio-nuxt3-app
 git push -u origin main
 ```
 
-## Setup Netlify
+## Setup Netlify with Netlify CLI
 
 Initialise over the Netfliy CLI
 
