@@ -2,6 +2,23 @@
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
+## Setup Github
+
+Create the Git repo and push with Github CLI
+
+```bash
+gh repo create davidschubert/ds-portfolio-nuxt3-app
+git push -u origin main
+```
+
+## Setup Netlify
+
+Initialise over the Netfliy CLI
+
+```bash
+ntl init
+```
+
 ## Setup
 
 Make sure to install the dependencies
